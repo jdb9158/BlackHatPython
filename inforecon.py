@@ -1,3 +1,6 @@
+# Information Reconnaissance
+# Grabs Banners, Hostname and IP Lookup
+
 import sys
 import requests
 import socket
